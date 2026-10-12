@@ -2,6 +2,8 @@
 
 Ready-to-use builds of Holder's components, for building your own tools, integrations and language bindings on top of Holder without building Holder yourself.
 
+Each build is made once and shared, by you, other developers and Holder's own CI alike, which saves everyone the time, and the electricity, of building the same thing again.
+
 Everything here is built from the public source in [HolderTeam/holder](https://github.com/HolderTeam/holder) by that repository's CI. Nothing is built or run in this repository; it only holds releases.
 
 ## Releases
